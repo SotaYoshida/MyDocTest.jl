@@ -1,7 +1,7 @@
 using MyDocTest
 using Documenter
 
-DocMeta.setdocmeta!(MyDocTest, :DocTestSetup, :(using MyDocTest); recursive=true)
+#DocMeta.setdocmeta!(MyDocTest, :DocTestSetup, :(using MyDocTest); recursive=true)
 
 makedocs(;
     modules=[MyDocTest],
@@ -15,6 +15,8 @@ makedocs(;
     ),
     pages=[
         "Home" => "index.md",
+        "Chi" => "chi.md",
+        "IM" => "im.md",
     ],
 )
 
