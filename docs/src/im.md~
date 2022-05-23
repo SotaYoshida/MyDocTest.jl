@@ -11,5 +11,4 @@ Documentation for [MyDocTest](https://github.com/SotaYoshida/MyDocTest.jl).
 
 ```@autodocs
 Modules = [MyDocTest]
-Pages = ["im/immain.jl",]
 ```
