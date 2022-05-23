@@ -1,7 +1,7 @@
 module MyDocTest
 
 # Write your package code here.
-include("src/im/immain.jl")
+include("im/immain.jl")
 export testim
 
 end
