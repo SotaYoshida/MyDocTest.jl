@@ -1,0 +1,7 @@
+name = "MyDocTest"
+uuid = "827a4c05-1b1a-4adc-9b3f-159b98dae511"
+authors = ["SotaYoshida <syoshida@cc.utsunomiya-u.ac.jp> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
